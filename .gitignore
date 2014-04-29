@@ -1,0 +1,10 @@
+# Pre-Compiled Files #
+*.class
+/bin
+
+# Automatic Generated Files #
+*.applet
+
+# Package Files #
+*.war
+*.ear
